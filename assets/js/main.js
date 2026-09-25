@@ -1,6 +1,6 @@
 // ===== Configuración =====
 // Pega aquí tu Access Key de Web3Forms (https://web3forms.com). Es pública por diseño.
-const WEB3FORMS_ACCESS_KEY = "YOUR_WEB3FORMS_ACCESS_KEY";
+const WEB3FORMS_ACCESS_KEY = "b936d491-9a45-49e5-bd00-d0bf0ae0bb41";
 
 document.documentElement.classList.add("js");
 
